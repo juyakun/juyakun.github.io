@@ -5,7 +5,7 @@ description: "Yakun Ju's academic homepage"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing and Mathematical Sciences, University of Leicester, United Kingdom. Prior to this, he served as a Research Fellow in the ROSE Lab at Nanyang Technological University, Singapore, and a Postdoctoral Fellow at The Hong Kong Polytechnic University, Hong Kong SAR. His research interests include 3D reconstruction, medical image processing, and underwater visual perception. He has authored over 70 peer-reviewed publications in leading journals and conferences such as TPAMI, TVCG, TIP, IJCV, and holds multiple patents, with technology transfer applications 480,000 CNY (approximately 70,000 USD). [[Official Website]](https://le.ac.uk/people/yakun-ju)
+Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing and Mathematical Sciences, University of Leicester, United Kingdom [[Official Website]](https://le.ac.uk/people/yakun-ju). Prior to this, he served as a Research Fellow in the ROSE Lab at Nanyang Technological University, Singapore, and a Postdoctoral Fellow at The Hong Kong Polytechnic University, Hong Kong SAR. His research interests include 3D reconstruction, medical image processing, and underwater visual perception. He has authored over 70 peer-reviewed publications in leading journals and conferences such as TPAMI, TVCG, TIP, IJCV, and holds multiple patents, with technology transfer applications 480,000 CNY (approximately 70,000 USD). 
 <br>
 
 
