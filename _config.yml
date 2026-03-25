@@ -1,0 +1,73 @@
+title:            Yakun Ju (举雅琨)
+description:      Yakun Ju academic website
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              //kelvin-Ju.github.io
+#http://localhost:5000
+#https://jponttuset.github.io
+disqus_shortname: juyakun
+
+# Owner/author information
+owner:
+  name:           Yakun Ju
+  avatar:         jykh.png
+  bio:            Assistant Professor, Computing and Mathematical Sciences, University of Leicester, UK
+
+  location:       "University of Leicester"
+  email:          yj174@leicester.ac.uk; kelvin.yakun.ju@gmail.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  
+  linkedin: yakunju
+  google_scholar: hE10pMYAAAAJ
+  github: Kelvin-Ju
+  cv: /cv2603.pdf
+  
+# Analytics and webmaster tools stuff goes here
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: //kelvin-Ju.github.io
+  - title: Research
+    url: /research/
+  - title: Supervision
+    url: /people/
+  #- title: Funding
+    #url: /Funding/
+  #- title: Full Publication
+    #url: https://scholar.google.co.uk/citations?user=hE10pMYAAAAJ&hl=en&oi=aoJ
+    #external: true
+  - title: Teaching
+    url: /teaching/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/London
+future:      true
+#pygments:    true
+highlighter: rouge
+markdown:    kramdown
+kramdown:
+  extensions: ["strikethrough"]
+  
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+syntax_highlighter_opts:
+  line_numbers:
+  line_numbers_start: 1
+  tab_width: 4
+  bold_every: 10
+  css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
