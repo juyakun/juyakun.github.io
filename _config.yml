@@ -1,7 +1,7 @@
 title:            Yakun Ju (举雅琨)
 description:      Yakun Ju academic website
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //kelvin-Ju.github.io
+url:              //juyakun.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
 disqus_shortname: juyakun
@@ -30,10 +30,10 @@ bing_verify:
 # For external links add external: true
 links:
   - title: About
-    url: //kelvin-Ju.github.io
+    url: //juyakun.github.io
   - title: Research
     url: /research/
-  - title: Supervision
+  - title: People
     url: /people/
   #- title: Funding
     #url: /Funding/
