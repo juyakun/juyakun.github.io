@@ -5,7 +5,7 @@ description: "Yakun Ju's academic homepage"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing and Mathematical Sciences, University of Leicester, United Kingdom [[Official Website]](https://le.ac.uk/people/yakun-ju). Prior to this, he served as a Research Fellow in the ROSE Lab at Nanyang Technological University, Singapore, and a Postdoctoral Fellow at The Hong Kong Polytechnic University, Hong Kong SAR. His research interests include 3D reconstruction, medical image processing, and underwater visual perception. He has authored over 70 peer-reviewed publications in leading journals and conferences such as TPAMI, TVCG, TIP, IJCV, and holds multiple patents, with technology transfer applications 480,000 CNY (approximately 70,000 USD). 
+Yakun Ju is currently an Assistant Professor (Ph.D. Supervisor) with the School of Computing and Mathematical Sciences, University of Leicester, United Kingdom [[Official Website]](https://le.ac.uk/people/yakun-ju). Prior to this, he served as a Research Fellow in the ROSE Lab at Nanyang Technological University, Singapore, and a Postdoctoral Fellow at The Hong Kong Polytechnic University, Hong Kong SAR. His research interests include 3D reconstruction, medical image processing, and underwater visual perception. He has authored over 70 peer-reviewed publications in leading journals and conferences such as TPAMI, TVCG, TIP, IJCV, and holds multiple patents, with technology transfer applications 480,000 CNY (approximately 70,000 USD). 
 <br>
 
 
@@ -16,7 +16,7 @@ Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing
 *   **Sep 2012 - Jun 2016:** B. Eng., School of Mechanical Engineering, Sichuan University, China.
 
 ## Employment History
-*   **Nov 2024 - Now:** Assistant Professor from the School of Computing and Mathematical Sciences, University of Leicester, United Kingdom.
+*   **Nov 2024 - Now:** Assistant Professor, School of Computing and Mathematical Sciences, University of Leicester, United Kingdom.
 <br>
 <br>
 *   **Sep 2023 - Nov 2024:** Research Fellow, [ROSE Lab](https://www.ntu.edu.sg/rose/about-us/our-people), School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, working with [Prof. Alex Chichung Kot (SAEng, IEEE Fellow)](https://dr.ntu.edu.sg/entities/person/Kot-Chichung-Alex).
