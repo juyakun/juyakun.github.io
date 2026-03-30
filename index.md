@@ -85,7 +85,7 @@ Yakun Ju is currently an Assistant Professor (Ph.D. Supervisor) with the School 
 <br>
 <br>
 **FNIN: A Fourier Neural Operator-based Numerical Integration Network for Surface-from-gradients**  
-  Jiaqi Leng, **Yakun Ju†**, Yuanxu Duan, Jiangnan Zhang, Qingxuan Lv, Zuxuan Wu, Hao Fan.  
+  Jiaqi Leng, **Yakun Ju✉**, Yuanxu Duan, Jiangnan Zhang, Qingxuan Lv, Zuxuan Wu, Hao Fan.  
   Annual AAAI Conference on Artificial Intelligence (AAAI), 2025. [[Paper]](https://aaai.org/conference/aaai/aaai-25/)
   
 
