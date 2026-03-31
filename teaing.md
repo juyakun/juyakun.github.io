@@ -15,7 +15,7 @@ comments: false
 <br>
 * CO2302: Software Engineering Group Project, University of Leicester, 2024-2025 SEM2
 
-### Talk \& Tutorial
+### Talk & Tutorial
 
 * AI-driven 3D Fundus Reconstruction via Photometric Stereo. University of Birmingham, Birmingham, UK, 6 Jun. 2025
 <br>
