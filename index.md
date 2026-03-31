@@ -89,7 +89,7 @@ Yakun Ju is currently an Assistant Professor (Ph.D. Supervisor) with the School 
   Annual AAAI Conference on Artificial Intelligence (AAAI), 2025. [[Paper]](https://aaai.org/conference/aaai/aaai-25/)
   
 
-##  Patents  
+##  Patent  
 *   A Single Frame Image 3D Reconstruction Device and Method Based on Deep Learning, CN107862741, **Yakun Ju**, Junyu Dong, Lin Qi, Liang Lu, **Technology Transfer Applications 480,000 CNY (approximately 70,000 USD)**
 <br>
 <br>
@@ -104,7 +104,7 @@ Yakun Ju is currently an Assistant Professor (Ph.D. Supervisor) with the School 
 <br>
 *   A method for grading diabetic retinopathy based on a three-stage attention network, CN115587979, Muwei Jian, Hongyu Chen, Rui Wang, **Yakun Ju**, etc.
 
-## Awards
+## Award
 *   ACM China Council Qingdao Chapter Outstanding Doctoral Dissertation Award, 2022
 <br>
 *   Inspur Scholarship, 2021
@@ -113,6 +113,6 @@ Yakun Ju is currently an Assistant Professor (Ph.D. Supervisor) with the School 
 <br>
 *   Goers Acoustic Scholarship, 2017
 
-## Map My Visitors
+## Map My Visitor
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=200&t=n&d=DUZ5ltq0MZsKYFClVz-_l6DGjjcuIilnJvRuR-Ubh9w&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
 
