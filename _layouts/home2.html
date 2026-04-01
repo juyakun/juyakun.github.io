@@ -60,16 +60,6 @@
   color: #222;
 }
 
-@media screen and (max-width: 768px) {
-  .article-author-side {
-    display: none;
-  }
-
-  .mobile-author {
-    display: block;
-  }
-}
-
 .article-wrap a {
   color: #0066cc;
 }
@@ -80,6 +70,40 @@
 
 .article-wrap a:hover {
   color: #004999;
+}
+
+/* 桌面端拉宽整体页面 */
+@media screen and (min-width: 769px) {
+  #main {
+    max-width: 1600px;
+    width: 96%;
+    margin: 0 auto;
+  }
+
+  .article-author-side {
+    width: 250px;
+  }
+
+  article {
+    width: calc(100% - 290px);
+    max-width: none;
+  }
+
+  .article-wrap {
+    max-width: none;
+    width: 100%;
+  }
+}
+
+/* 手机端显示顶部作者卡片，隐藏左侧侧栏 */
+@media screen and (max-width: 768px) {
+  .article-author-side {
+    display: none;
+  }
+
+  .mobile-author {
+    display: block;
+  }
 }
 </style>
 </head>
