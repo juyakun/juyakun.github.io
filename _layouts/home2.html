@@ -72,21 +72,24 @@
   color: #004999;
 }
 
-/* 桌面端拉宽整体页面 */
+/* 桌面端：左侧栏保持在左边，正文尽量铺满右侧空间 */
 @media screen and (min-width: 769px) {
   #main {
-    max-width: 1800px;
     width: 96%;
+    max-width: 1800px;
     margin: 0 auto;
   }
 
   .article-author-side {
-    width: 250px;
+    width: 240px;
+    float: left;
   }
 
   article {
-    width: calc(100% - 290px);
+    margin-left: 280px;
+    width: auto;
     max-width: none;
+    float: none;
   }
 
   .article-wrap {
@@ -95,7 +98,7 @@
   }
 }
 
-/* 手机端显示顶部作者卡片，隐藏左侧侧栏 */
+/* 手机端：隐藏左侧栏，显示顶部紧凑作者卡片 */
 @media screen and (max-width: 768px) {
   .article-author-side {
     display: none;
