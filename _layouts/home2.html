@@ -72,34 +72,53 @@
   color: #004999;
 }
 
-/* 桌面端：左侧栏保持在左边，正文尽量铺满右侧空间 */
+/* 桌面端：用 flex 强制左栏 + 宽正文 */
 @media screen and (min-width: 769px) {
   #main {
     width: 96%;
     max-width: 1800px;
     margin: 0 auto;
+    display: flex;
+    align-items: flex-start;
+    gap: 48px;
   }
 
   .article-author-side {
-    width: 240px;
-    float: left;
+    flex: 0 0 250px;
+    width: 250px;
+    float: none !important;
+    margin: 0 !important;
   }
 
   article {
-    margin-left: 280px;
-    width: auto;
-    max-width: none;
-    float: none;
+    flex: 1 1 auto;
+    width: auto !important;
+    max-width: none !important;
+    float: none !important;
+    margin: 0 !important;
+    min-width: 0;
   }
 
   .article-wrap {
-    max-width: none;
-    width: 100%;
+    width: 100% !important;
+    max-width: none !important;
+  }
+
+  .article-wrap p,
+  .article-wrap ul,
+  .article-wrap ol,
+  .article-wrap li,
+  .article-wrap blockquote {
+    max-width: none !important;
   }
 }
 
-/* 手机端：隐藏左侧栏，显示顶部紧凑作者卡片 */
+/* 手机端：隐藏左侧栏，显示顶部作者卡片 */
 @media screen and (max-width: 768px) {
+  #main {
+    display: block;
+  }
+
   .article-author-side {
     display: none;
   }
@@ -174,8 +193,6 @@
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
-<!--       <a class="twitter-timeline" href="https://twitter.com/thisislezhang" data-widget-id="338001751854686210">Tuits de @thisislezhang</a>
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> -->
     </div><!-- /.article-wrap -->
     {% if site.disqus_shortname and page.comments %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
