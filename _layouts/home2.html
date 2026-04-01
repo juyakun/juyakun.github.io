@@ -72,15 +72,15 @@
   color: #004999;
 }
 
-/* 桌面端：用 flex 强制左栏 + 宽正文 */
+/* 桌面端：左侧栏 + 正文最终版 */
 @media screen and (min-width: 769px) {
   #main {
-    width: 96%;
-    max-width: 1800px;
+    width: 92%;
+    max-width: 1550px;
     margin: 0 auto;
     display: flex;
     align-items: flex-start;
-    gap: 48px;
+    gap: 72px;
   }
 
   .article-author-side {
@@ -93,7 +93,7 @@
   article {
     flex: 1 1 auto;
     width: auto !important;
-    max-width: none !important;
+    max-width: 1180px !important;
     float: none !important;
     margin: 0 !important;
     min-width: 0;
