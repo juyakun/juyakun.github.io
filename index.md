@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: Bio
+title:
 description: "Yakun Ju's academic homepage"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
