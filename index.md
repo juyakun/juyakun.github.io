@@ -15,7 +15,7 @@ Yakun Ju is currently an Assistant Professor (Ph.D. Supervisor) with the School 
 <br>
 *   **Sep 2012 - Jun 2016:** B. Eng., School of Mechanical Engineering, Sichuan University, China.
 
-## Employment History
+## Research Experience
 *   **Nov 2024 - Now:** Assistant Professor, School of Computing and Mathematical Sciences, University of Leicester, United Kingdom.
 <br>
 <br>
