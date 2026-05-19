@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home2
 permalink: /research/
 title: 
 tags: [research]
