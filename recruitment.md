@@ -1,5 +1,5 @@
 ---
-layout: recruitment
+layout: page
 permalink: /recruitment/
 title: 招生信息
 tags: [recruitment]
