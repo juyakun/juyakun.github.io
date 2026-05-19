@@ -14,9 +14,9 @@ Yakun Ju is currently a Full Professor and Ph.D. Supervisor in the Faculty of In
 **Email:** kelvin.yakun.ju@gmail.com
 
 ## Openings (招生信息)
-*招生/博士后详细信息及要求请见Recruitment
-* <span style="color:red;">现正招收2027级博士研究生2名 (尚有名额)、硕士研究生6名 (尚有名额)，</span>欢迎对三维视觉，计算机视觉与计算摄影学的交叉部分，人工智能海洋学，医学信息处理等领域感兴趣的同学，通过电邮垂询并附简历。
-* <span style="color:red;">长期招收本科实习生、研究助理及博士后 </span>（年薪26-31万，博新补贴全额叠加，出站25-40万聚青资助），欢迎电邮垂询并附简历。
+* **招生/博士后详细信息及要求请见Recruitment**
+* <span style="color:red;">**现正招收2027级博士研究生2名 (尚有名额)、硕士研究生6名 (尚有名额)**</span>，欢迎对三维视觉，计算机视觉与计算摄影学的交叉部分，人工智能海洋学，医学信息处理等领域感兴趣的同学，通过电邮垂询并附简历。
+* <span style="color:red;">**长期招收本科实习生、研究助理及博士后** </span>（年薪26-31万，博新补贴全额叠加，出站25-40万聚青资助），欢迎电邮垂询并附简历。
 * 课题组致力于为学生提供系统、坚实的科研训练，并与多所世界知名高校及研究机构保持长期紧密合作关系，学生将有机会与人工智能、机器人等领域的国内外顶尖学者共同探索前沿课题，取得具有国际影响力的高水平研究成果。
 * We are actively looking for self-motivated PhD/Master Students, Undergraduate Students, Postdoctoral Researchers, and Research Assistants to work and have fun together on multiple research topics. Please feel free to drop me an email with your CV if you are interested.
 
