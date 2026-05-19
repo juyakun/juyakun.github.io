@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home2
 permalink: /people/
 title: People
 tags: [people]
