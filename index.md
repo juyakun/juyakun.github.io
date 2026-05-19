@@ -7,9 +7,11 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 Yakun Ju is currently a Full Professor and Ph.D. Supervisor in the Faculty of Information Science and Engineering at Ocean University of China, Qingdao, China. He was previously an Assistant Professor and Ph.D. Supervisor at the University of Leicester, UK, a Research Fellow at Nanyang Technological University, Singapore, and a Postdoctoral Fellow at The Hong Kong Polytechnic University, Hong Kong SAR. His research focuses on 3D reconstruction, medical image processing, and underwater visual perception. He has published over 70 peer-reviewed papers in leading journals and conferences, including TPAMI, TVCG, TIP, and IJCV, and holds multiple patents, with technology transfer applications totaling 480,000 CNY.
 <br>
-
-**举雅琨，中国海洋大学信息科学与工程学部教授、博导，国家高层次青年人才。**本科毕业于四川大学，博士毕业于中国海洋大学。曾任英国莱斯特大学计算机系长聘助理教授，并具有新加坡南洋理工大学、香港理工大学的研究经历。长期从事三维重建、计算成像与水下视觉感知研究。近年来在领域内一流的期刊会议（如TPAMI/IJCV/TIP/TVCG/CVPR/ECCV/AAAI）上发表论文70余篇。授权发明专利7项，第一发明人专利成果转化48万元。香港研究资助局基金项目评审专家。担任PR、ASOC、MIR、CAAI TRIT、Neurocomputing等主流期刊副编辑/编委，以及十余本SCI期刊客座编辑。主持/骨干承担国家自然科学基金、英国高等院校基金、新加坡战略定位基金、香港创新及科技基金等科研项目。
-
+<br>
+**举雅琨，中国海洋大学信息科学与工程学部教授、博导，国家高层次青年人才。**本科毕业于四川大学，博士毕业于中国海洋大学。曾任英国莱斯特大学计算机系长聘助理教授，并具有新加坡南洋理工大学、香港理工大学的研究经历。长期从事三维重建、计算成像与水下视觉感知研究。近年来在领域内一流的期刊会议（如TPAMI，IJCV，TIP，TVCG，CVPR，ECCV，AAAI）上发表论文70余篇。授权发明专利7项，第一发明人专利成果转化48万元。香港研究资助局基金项目评审专家。担任PR、ASOC、MIR、CAAI TRIT、Neurocomputing等主流期刊副编辑/编委，以及十余本SCI期刊客座编辑。主持/骨干承担国家自然科学基金、英国高等院校基金、新加坡战略定位基金、香港创新及科技基金等科研项目。
+<br>
+<br>
+**Email:** kelvin.yakun.ju@gmail.com
 ## Education
 *   **2016 - 2022:** Ph.D., School of Computer Science, Ocean University of China, China, Supervised by [Prof. Junyu Dong (董军宇)](https://it.ouc.edu.cn/djy/).
 <br>
@@ -17,7 +19,7 @@ Yakun Ju is currently a Full Professor and Ph.D. Supervisor in the Faculty of In
 *   **2012 - 2016:** B. Eng., School of Mechanical Engineering, Sichuan University, China.
 
 ## Research Experience
-*   **2026 - now:** Professor, Faculty of Information Science and Engineering, Ocean University of China, China.
+*   **2026 - Now:** Professor, Faculty of Information Science and Engineering, Ocean University of China, China.
 <br>
 <br>
 *   **2024 - 2026:** Assistant Professor, School of Computing and Mathematical Sciences, University of Leicester, United Kingdom.
