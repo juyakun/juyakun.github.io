@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home2
 permalink: /teaching/
 title: Teaching Module
 tags: [teaching]
