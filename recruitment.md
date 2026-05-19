@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home2
 permalink: /recruitment/
 title: 招生信息
 tags: [recruitment]
@@ -50,7 +50,7 @@ comments: false
 感兴趣的同学请将以下信息发送至本人邮箱：kelvin.yakun.ju@gmail.com
 <br>
 <br>
-邮件主题： 职位申请-姓名-最后院校，附带以下附件/内容：
+**邮件主题： 职位申请-姓名-最后院校，附带以下附件/内容：**
 <br>
 <br>
 -  简历，成绩单，英文证明（如CET6、IELTS），期望的研究方向与简要计划
