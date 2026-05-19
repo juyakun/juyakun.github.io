@@ -8,7 +8,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 Yakun Ju is currently a Full Professor and Ph.D. Supervisor in the Faculty of Information Science and Engineering at Ocean University of China, Qingdao, China. He was previously an Assistant Professor and Ph.D. Supervisor at the University of Leicester, UK, a Research Fellow at Nanyang Technological University, Singapore, and a Postdoctoral Fellow at The Hong Kong Polytechnic University, Hong Kong SAR. His research focuses on 3D reconstruction, medical image processing, and underwater visual perception. He has published over 70 peer-reviewed papers in leading journals and conferences, including TPAMI, TVCG, TIP, and IJCV, and holds multiple patents, with technology transfer applications totaling 480,000 CNY.
 <br>
 <br>
-**举雅琨，中国海洋大学信息科学与工程学部教授、博导，国家高层次青年人才。**曾任英国莱斯特大学计算机系长聘助理教授，并具有新加坡南洋理工大学、香港理工大学的研究经历。长期从事三维重建、计算成像与水下视觉感知研究。近年来在领域内一流的期刊会议（如TPAMI，IJCV，TIP，TVCG，CVPR）上发表论文70余篇。授权发明专利7项，第一发明人专利成果转化48万元。担任香港研究资助局基金项目评审专家。担任PR、ASOC、MIR、CAAI TRIT、Neurocomputing等主流期刊副编辑/编委，以及十余本SCI期刊客座编辑。主持/骨干承担国家自然科学基金、英国高等院校基金、新加坡战略定位基金、香港创新及科技基金等科研项目。
+**举雅琨，中国海洋大学信息科学与工程学部教授、博导，海洋动力-物理环境与智能感知全国重点实验室骨干成员，国家高层次青年人才。**曾任英国莱斯特大学计算机系长聘助理教授，并具有新加坡南洋理工大学、香港理工大学的研究经历。长期从事三维重建、计算成像与水下视觉感知研究。近年来在领域内一流的期刊会议（如TPAMI，IJCV，TIP，TVCG，CVPR）上发表论文70余篇。授权发明专利7项，第一发明人专利成果转化48万元。担任香港研究资助局基金项目评审专家。担任PR、ASOC、MIR、CAAI TRIT、Neurocomputing等主流期刊副编辑/编委，以及十余本SCI期刊客座编辑。主持/骨干承担国家自然科学基金、英国高等院校基金、新加坡战略定位基金、香港创新及科技基金等科研项目。
 <br>
 <br>
 **Email:** kelvin.yakun.ju@gmail.com
