@@ -10,19 +10,19 @@ Yakun Ju is currently an Assistant Professor (Ph.D. Supervisor) with the School 
 
 
 ## Education
-*   **Sep 2016 - Jun 2022:** Ph.D., School of Computer Science, Ocean University of China, China, Supervised by [Prof. Junyu Dong (董军宇)](https://it.ouc.edu.cn/djy/).
+*   **2016 - 2022:** Ph.D., School of Computer Science, Ocean University of China, China, Supervised by [Prof. Junyu Dong (董军宇)](https://it.ouc.edu.cn/djy/).
 <br>
 <br>
-*   **Sep 2012 - Jun 2016:** B. Eng., School of Mechanical Engineering, Sichuan University, China.
+*   **2012 - 2016:** B. Eng., School of Mechanical Engineering, Sichuan University, China.
 
 ## Research Experience
-*   **Nov 2024 - Now:** Assistant Professor, School of Computing and Mathematical Sciences, University of Leicester, United Kingdom.
+*   **2024 - Now:** Assistant Professor, School of Computing and Mathematical Sciences, University of Leicester, United Kingdom.
 <br>
 <br>
-*   **Sep 2023 - Nov 2024:** Research Fellow, [ROSE Lab](https://www.ntu.edu.sg/rose/about-us/our-people), School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, working with [Prof. Alex Chichung Kot (SAEng, IEEE Life Fellow)](https://www.smbu.edu.cn/info/5701/121291.htm).
+*   **2023 - 2024:** Research Fellow, [ROSE Lab](https://www.ntu.edu.sg/rose/about-us/our-people), School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, working with [Prof. Alex Chichung Kot (SAEng, IEEE Life Fellow)](https://www.smbu.edu.cn/info/5701/121291.htm).
 <br>
 <br>
-*   **Sep 2022 - Sep 2023:** Postdoctoral Fellow, Department of Electrical and Electronic Engineering, Hong Kong Polytechnic University, Hong Kong SAR, working with [Prof. Kenneth Kin-Man Lam (IEEE SPS Vice President)](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-lam-kin-man-kenneth/).
+*   **2022 - 2023:** Postdoctoral Fellow, Department of Electrical and Electronic Engineering, Hong Kong Polytechnic University, Hong Kong SAR, working with [Prof. Kenneth Kin-Man Lam (IEEE SPS Vice President)](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-lam-kin-man-kenneth/).
 
 ## Academic Service
 *   **Associate Editor/Editorial Board:** [Pattern Recognition (PR)](https://www.sciencedirect.com/journal/pattern-recognition), [Machine Intelligence Research (MIR)](https://link.springer.com/journal/11633), [CAAI Transactions on Intelligence Technology (CAAI TRIT)](https://digital-library.theiet.org/journal/trit), [Applied Soft Computing (ASOC)](https://www.sciencedirect.com/journal/applied-soft-computing), [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), [Intelligent Marine Technology and Systems (IMTS)](https://link.springer.com/journal/44295/editors).
