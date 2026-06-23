@@ -24,7 +24,6 @@ comments: false
 - **Deep Learning:** Convolutional Neural Networks, Transformers, and Self-supervised Learning -->
 
 
-## Publications
 
 ### Peer Reviewed Journal Articles
 
@@ -78,7 +77,6 @@ comments: false
 
 #### 2025
 
-<br>
 **Revisiting One-stage Deep Uncalibrated Photometric Stereo via Fourier Embedding**  
   **Y. Ju**, B. Shi, B. Wen, K.-M. Lam, X. Jiang, A. C. Kot.  
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2025. 
@@ -136,7 +134,6 @@ comments: false
 
 #### 2024
 
-<br>
 **Deep Learning Methods for Calibrated Photometric Stereo and Beyond**  
   **Y. Ju**, K.-M. Lam, W. Xie, H. Zhou, J. Dong, B. Shi.  
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2024. 
@@ -174,7 +171,6 @@ comments: false
 
 #### 2023
 
-<br>
 **GR-PSN: Learning to Estimate Surface Normal and Reconstruct Photometric Stereo Images**  
   **Y. Ju**, B. Shi, Y. Chen, H. Zhou, J. Dong, K.-M. Lam.  
   *IEEE Transactions on Visualization and Computer Graphics*, 2023. 
@@ -212,7 +208,6 @@ comments: false
 
 #### 2022
 
-<br>
 **Normattention-PSN: A High-frequency Region Enhanced Photometric Stereo Network with Normalized Attention**  
   **Y. Ju**, B. Shi, M. Jian, L. Qi, J. Dong, K.-M. Lam.  
   *International Journal of Computer Vision*, 2022. 
@@ -240,7 +235,6 @@ comments: false
 
 #### 2021 and earlier
 
-<br>
 **Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo**  
   **Y. Ju**, J. Dong, S. Chen.  
   *IEEE Transactions on Image Processing*, 2021. 
@@ -275,7 +269,6 @@ comments: false
 
 #### 2026
 
-<br>
 **PUFM: Efficient Point Cloud Upsampling via Flow Matching**  
   Z. Liu, C. He, **Y. Ju**, L. Li.  
   *Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2026. 
@@ -283,7 +276,6 @@ comments: false
 
 #### 2025
 
-<br>
 **FNIN: A Fourier Neural Operator-based Numerical Integration Network for Surface-from-gradients**  
   J. Leng, **Y. Ju✉**, Y. Duan, J. Zhang, Q. Lv, Z. Wu, H. Fan.  
   *Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
@@ -301,7 +293,6 @@ comments: false
 
 #### 2024
 
-<br>
 **Satr: A Structure-affinity Attention-based Transformer Encoder for Spine Segmentation**  
   H. Xie, Z. Huang, F. H. F. Leung, N. F. Law, **Y. Ju✉**, Y.-P. Zheng, S.-H. Ling.  
   *Proceedings of the IEEE International Symposium on Biomedical Imaging (ISBI)*, 2024. 
@@ -334,7 +325,6 @@ comments: false
 
 #### 2023
 
-<br>
 **Efficient Feature Fusion for Learning-based Photometric Stereo**  
   **Y. Ju**, K.-M. Lam, J. Xiao, C. Zhang, C. Yang, J. Dong.  
   *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023. 
@@ -377,7 +367,6 @@ comments: false
 
 #### 2022 and earlier
 
-<br>
 **Pay Attention to Devils: A Photometric Stereo Network for Better Details**  
   **Y. Ju**, K.-M. Lam, Y. Chen, L. Qi, J. Dong.  
   *Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)*, 2020. 
