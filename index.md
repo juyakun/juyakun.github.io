@@ -53,7 +53,7 @@ Yakun Ju is currently a Full Professor and Ph.D. Supervisor in the State Key Lab
 
 
 
-## Selected Publication
+## Selected Publication (5 Years)
 **Clinically-Informed Prompt Learning for Explainable Diagnosis with Biomedical Vision-Language Models**  
 Hao Xie, Yucheng Fan, N.F. Law, Yong-Ping Zheng, Sai Ho Ling, Yang Hu, **Yakun Ju✉**.  
   *Pattern Recognition (PR)*, 2026. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326010794)
@@ -77,11 +77,6 @@ Hao Xie, Yucheng Fan, N.F. Law, Yong-Ping Zheng, Sai Ho Ling, Yang Hu, **Yakun J
  **Deep Learning Methods for Calibrated Photometric Stereo and Beyond**  
   **Yakun Ju**, Kin-Man Lam, Wuyuan Xie, Huiyu Zhou, Junyu Dong, Boxin Shi.  
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10497891)
-<br>
-<br>
-**Underwater Surface Normal Reconstruction via Cross-grained Photometric Stereo Transformer**  
-  **Yakun Ju**, Ling Li, Xian Zhong, Yuan Rao, Yanru Liu, Junyu Dong, Alex C. Kot.  
-  *IEEE Journal of Oceanic Engineering (JOE)*, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10721286)
 <br>
 <br>
 **Towards Marine Snow Removal with Fusing Fourier Information**  
