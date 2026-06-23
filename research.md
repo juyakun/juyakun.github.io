@@ -72,7 +72,7 @@ comments: false
 <br>
 **Enhancing decision boundaries in continual learning through a decoupled Gaussian framework**  
   Z. Feng, C. Chen, Z. Yang, L. Yu, p. Kuang, M. Zhou, K, Dang, Z, Gao, **Y. Ju**.
-  *Information Processing \& Management*, 2026. 
+  *Information Processing & Management*, 2026. 
 <br>
 
 #### 2025
