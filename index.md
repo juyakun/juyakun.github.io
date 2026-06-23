@@ -135,6 +135,4 @@ Hao Xie, Yucheng Fan, N.F. Law, Yong-Ping Zheng, Sai Ho Ling, Yang Hu, **Yakun J
 <br>
 *   Goers Acoustic Scholarship, 2017
 
-## Map My Visitor
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=200&t=n&d=DUZ5ltq0MZsKYFClVz-_l6DGjjcuIilnJvRuR-Ubh9w&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
 
