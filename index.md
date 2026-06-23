@@ -68,6 +68,7 @@ Hao Xie, Yucheng Fan, N.F. Law, Yong-Ping Zheng, Sai Ho Ling, Yang Hu, **Yakun J
   Jiaqi Leng, **Yakun Ju✉**, Yuanxu Duan, Jiangnan Zhang, Qingxuan Lv, Zuxuan Wu, Hao Fan.  
   Annual AAAI Conference on Artificial Intelligence (AAAI), 2025. [[Paper]](https://aaai.org/conference/aaai/aaai-25/)
 <br>
+<br>
 **Photometric Regularization for 3D Gaussian Splatting in Multi-view Surface Projection**  
   **Yakun Ju**, Yuying Zhao, Jun Xiao, Cong Zhang, Zheheng Jiang, Huiyu Zhou, Wei Zhou, Hui Yu, Junyu Dong.  
   *IEEE Journal of Selected Topics in Signal Processing (JSTSP)*, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11192617)
