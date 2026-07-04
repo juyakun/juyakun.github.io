@@ -5,19 +5,19 @@ description: "Yakun Ju's academic homepage"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-Yakun Ju is currently a Full Professor and Ph.D. Supervisor in the State Key Laboratory of Physical Oceanography and the Faculty of Information Science and Engineering at Ocean University of China, Qingdao, China. He was previously an Assistant Professor and Ph.D. Supervisor at the University of Leicester, UK, a Research Fellow at Nanyang Technological University, Singapore, and a Postdoctoral Fellow at The Hong Kong Polytechnic University, Hong Kong SAR. His research focuses on 3D reconstruction, medical image processing, and underwater visual perception. He has published over 70 peer-reviewed papers in leading journals and conferences, including TPAMI, TVCG, TIP, and IJCV, and holds multiple patents, with technology transfer applications totaling 480,000 CNY.
+Yakun Ju is currently a Full Professor in the State Key Laboratory of Physical Oceanography and the Faculty of Information Science and Engineering at Ocean University of China, Qingdao, China. He was previously an Assistant Professor and Ph.D. Supervisor at the University of Leicester, UK, a Research Fellow at Nanyang Technological University, Singapore, and a Postdoctoral Fellow at The Hong Kong Polytechnic University, Hong Kong SAR. His research focuses on 3D reconstruction, medical image processing, and underwater visual perception. He has published over 70 peer-reviewed papers in leading journals and conferences, including TPAMI, TVCG, TIP, and IJCV, and holds multiple patents, with technology transfer applications totaling 480,000 CNY.
 <br>
 <br>
-举雅琨，**国家级青年人才**，中国海洋大学信息科学与工程学部教授、博导，海洋动力-物理环境与智能感知全国重点实验室骨干成员，董军宇部长团队成员。曾任英国莱斯特大学计算机系长聘助理教授，并具有新加坡南洋理工大学、香港理工大学的研究经历。长期从事三维重建、计算成像与水下视觉感知研究。近年来在领域内一流的期刊会议（如TPAMI，IJCV，TIP，TVCG，CVPR）上发表论文70余篇，授权发明专利7项。担任香港研究资助局基金项目评审专家。担任PR、ASOC、MIR、CAAI TRIT、Neurocomputing等主流期刊副编辑/编委，以及十余本SCI期刊客座编辑。主持/骨干承担国家自然科学基金、英国高等院校基金、新加坡战略定位基金、香港创新及科技基金等科研项目。
+举雅琨，**国家级青年人才**，中国海洋大学信息科学与工程学部教授，海洋动力-物理环境与智能感知全国重点实验室骨干成员，董军宇部长团队成员。曾任英国莱斯特大学计算机系长聘助理教授，并具有新加坡南洋理工大学、香港理工大学的研究经历。长期从事三维重建、计算成像与水下视觉感知研究。近年来在领域内一流的期刊会议（如TPAMI，IJCV，TIP，TVCG，CVPR）上发表论文70余篇，授权发明专利7项。担任香港研究资助局基金项目评审专家。担任PR、ASOC、MIR、CAAI TRIT、Neurocomputing等主流期刊副编辑/编委，以及十余本SCI期刊客座编辑。主持/骨干承担国家自然科学基金、英国高等院校基金、新加坡战略定位基金、香港创新及科技基金等科研项目。
 <br>
 <br>
 **Email:** kelvin.yakun.ju@gmail.com
 
 ## Openings (招生信息)
 *  **招生信息及要求请见[Recruitment](https://juyakun.github.io/recruitment/) (重要)**  
-*  <span style="color:red;">**现正招收2027级博士研究生2名 (尚有名额)、硕士研究生6名 (尚有名额)**</span>，欢迎对三维视觉，计算机视觉与计算摄影学的交叉部分，人工智能海洋学，医学信息处理等领域感兴趣的同学，通过电邮垂询并附简历。
+*  <span style="color:red;">**现正招收2027级博士研究生2名 (尚有名额)、硕士研究生6名 (尚有名额)**</span>，欢迎对三维视觉，计算机视觉与计算摄影学的交叉部分，人工智能海洋学，医学信息处理等领域感兴趣的同学（亦鼓励有一定基础的跨专业同学），通过电邮垂询并附简历。也可结合你的兴趣和目标，一起规划方向和发展路径。
 *  <span style="color:red;">**长期招收本科实习生、研究助理及博士后** </span>（年薪26-31万，博新补贴全额叠加，出站25-40万聚青资助），欢迎电邮垂询并附简历。
-*  课题组致力于为学生提供系统、坚实的科研训练，并与多所世界知名高校及研究机构保持长期紧密合作关系，学生将有机会与人工智能、机器人等领域的国内外顶尖学者共同探索前沿课题，取得具有国际影响力的高水平研究成果。
+*  致力于为学生提供系统、坚实的科研训练，并与多所世界知名高校及研究机构保持长期紧密合作关系。强烈建议/支持课题组内的学生在硕博期间申请海外funding或CSC去境外交流，与人工智能、机器人等领域的国内外顶尖学者共同探索前沿课题，取得具有国际影响力的高水平研究成果。
 *  We are actively looking for self-motivated PhD/Master Students, Undergraduate Students, Postdoctoral Researchers, and Research Assistants to work and have fun together on multiple research topics. Please feel free to drop me an email with your CV if you are interested.
 
 
