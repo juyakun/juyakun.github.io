@@ -47,7 +47,7 @@ comments: false
 
 # 申请方式：
 
-感兴趣的同学请将以下信息发送至本人邮箱：kelvin.yakun.ju@gmail.com
+感兴趣的同学请将以下信息发送至本人邮箱：juyakun@ouc.edu.cn, 可cc:kelvin.yakun.ju@gmail.com
 <br>
 <br>
 **邮件主题： 职位申请-姓名-最后院校，附带以下附件/内容：**
