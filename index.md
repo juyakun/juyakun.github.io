@@ -109,8 +109,7 @@ Hao Xie, Yucheng Fan, N.F. Law, Yong-Ping Zheng, Sai Ho Ling, Yang Hu, **Yakun J
   *IEEE Transactions on Image Processing (TIP)*, 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9376632)
 <br>
 
-  
-
+ 
 ##  Patent  
 *   A Single Frame Image 3D Reconstruction Device and Method Based on Deep Learning, CN107862741, **Yakun Ju**, Junyu Dong, Lin Qi, Liang Lu, **Technology Transfer Applications 480,000 CNY (approximately 70,000 USD)**
 <br>
