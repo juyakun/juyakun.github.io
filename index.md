@@ -11,7 +11,12 @@ Yakun Ju is currently a "ZhuFeng" Distinguished Professor in the State Key Labor
 举雅琨，**国家级高层次青年人才**，中国海洋大学信息科学与工程学部教授、博导，海洋动力-物理环境与智能感知全国重点实验室骨干成员，董军宇部长团队。曾任英国莱斯特大学计算机系助理教授（终身教职），并具有新加坡南洋理工大学、香港理工大学的研究经历。长期从事三维重建、计算成像与水下视觉感知研究。近年来在领域内一流的期刊会议（如TPAMI，IJCV，TIP，TVCG，CVPR）上发表论文70余篇，授权发明专利7项。担任香港研究资助局基金项目评审专家。担任PR、ASOC、MIR、CAAI TRIT、Neurocomputing等主流期刊副编辑/编委，以及十余本SCI期刊客座编辑。主持/骨干承担国家自然科学基金、英国高等院校基金、新加坡战略定位基金、香港创新及科技基金等科研项目。
 <br>
 <br>
+**Official Homepage:** [中文](http://it.ouc.edu.cn/jyk/list.htm)  [ENG](http://it.ouc.edu.cn/jyk_en/list.htm)
+<br>
+<br>
 **Email:** juyakun@ouc.edu.cn;  (cc:)kelvin.yakun.ju@gmail.com 
+
+
 
 ## Openings (招生信息)
 *  **招生信息及要求请见[Recruitment](https://juyakun.github.io/recruitment/) (重要)**  
