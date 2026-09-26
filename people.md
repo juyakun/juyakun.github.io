@@ -14,7 +14,7 @@ comments: false
 
 
 ### Research Master (Mphil) Supervision
-* **Zheng Yuna** (Ocean University of China & Université Nantes, Sep 2026 - )
+* **Zheng Yuan** (Ocean University of China & Université Nantes, Sep 2026 - )
 <br>
 <br>
 
