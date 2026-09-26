@@ -13,7 +13,7 @@ comments: false
 * **Bo Wang** (University of Leicester & AstraZeneca UK, Mar 2026 - ):  "Unravelling Organoid Heterogeneity and Drug Response with a Novel Foundation Model" (with Huiyu Zhou & Hui Sun Leong)
 
 
-### Master (Mphil) Supervision
+### Research Master (Mphil) Supervision
 * **Zheng Yuna** (Ocean University of China & Université Nantes, Sep 2026 - )
 <br>
 <br>
