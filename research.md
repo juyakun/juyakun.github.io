@@ -1,7 +1,7 @@
 ---
 layout: home2
 permalink: /research/
-title: Full Publications
+title:
 tags: [research]
 modified: 25-03-26
 comments: false
@@ -23,7 +23,7 @@ comments: false
 <br> 
 - **Deep Learning:** Convolutional Neural Networks, Transformers, and Self-supervised Learning -->
 
-### Research Grants
+## Research Grants
 High-Precision Underwater Reconstruction Method Based on Photometric Stereo  
 NSFC Excellent Young Scientists Fund (Overseas)  
 **PI, CNY: 3M ≈ USD: 447,000**
@@ -36,6 +36,7 @@ Research funding for UK higher education institutions
 <br>
 
 
+##  Full Publications
 
 ### Peer Reviewed Journal Articles
 
