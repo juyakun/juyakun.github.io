@@ -29,10 +29,14 @@ comments: false
 
 #### 2026
 
-
 **Clinically-Informed Prompt Learning for Explainable Diagnosis with Biomedical Vision-Language Models**  
   H. Xie, Y. Fan, N.-F. Law, Y.-P. Zheng, S.-H. Ling, Y. Hu, **Y. Ju✉**.  
   *Pattern Recognition*, 2026. 
+<br>
+<br>
+**Prior-guided anchor-conditioned diffusion for underwater image enhancement**  
+  Y. Li, **Y. Ju✉**, J. Dong
+  *Neurocomputing*, 2026. 
 <br>
 <br>
 **Dynamic Mutual Learning for Object Detection in Aerial Imagery**  
