@@ -1,4 +1,4 @@
----
+<img width="2562" height="193" alt="image" src="https://github.com/user-attachments/assets/eabd5fcb-cdb9-4ee2-9670-120258cbe926" />---
 layout: home2
 permalink: /research/
 title: Full Publications
@@ -22,6 +22,18 @@ comments: false
 <br>
 <br> 
 - **Deep Learning:** Convolutional Neural Networks, Transformers, and Self-supervised Learning -->
+
+### Research Grants
+High-Precision Underwater Reconstruction Method Based on Photometric Stereo
+NSFC Excellent Young Scientists Fund (Overseas)
+**PI, CNY: 3M ≈ USD: 447,000**
+<br>
+<br>
+AI-driven 3D Fundus Reconstruction via Photometric Stereo
+Research funding for UK higher education institutions
+**PI, GBP: 5K ≈ USD: 6,650**
+<br>
+<br>
 
 
 
