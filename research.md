@@ -1,4 +1,3 @@
-<img width="2562" height="193" alt="image" src="https://github.com/user-attachments/assets/eabd5fcb-cdb9-4ee2-9670-120258cbe926" />---
 layout: home2
 permalink: /research/
 title: Full Publications
