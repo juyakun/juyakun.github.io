@@ -29,7 +29,7 @@ NSFC Excellent Young Scientists Fund (Overseas)
 **PI, CNY: 3M ≈ USD: 447,000**
 <br>
 <br>
-AI-driven 3D Fundus Reconstruction via Photometric Stereo  
+Remote Sensing and Prediction Methods for Marine Environments  
 Research funding for UK higher education institutions  
 **PI, GBP: 5K ≈ USD: 6,650**
 <br>
