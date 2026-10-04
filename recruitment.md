@@ -68,7 +68,7 @@ comments: false
 <br>
 <br>
 
-# **课题组不认可发表物：**  
+# **课题组不认可的发表物：**  
 **会议：**非CCF列表推荐会议（VCIP、ICCP等除外）  
 **期刊：**历届中科院预警期刊、历届科睿唯安预警、MDPI全系、Frontiers全系、Plos One、Scientific Reports、Computers, Materials & Continua、区域期刊（Saudi Arabia、Türkiye、India等）
 
