@@ -42,6 +42,9 @@ Research funding for UK higher education institutions
 
 #### 2026
 
+**Optimal Transport Minimization: Learning Implicit Distribution Invariance for One-Shot Object Detection**  
+Cong Zhang, Zihang Lyu, Jun Xiao,  **Yakun Ju✉**, Kin-Man Lam, Qi Wang.  
+  *IEEE Transactions on Multimedia*, 2026.
 **Clinically-Informed Prompt Learning for Explainable Diagnosis with Biomedical Vision-Language Models**  
   H. Xie, Y. Fan, N.-F. Law, Y.-P. Zheng, S.-H. Ling, Y. Hu, **Y. Ju✉**.  
   *Pattern Recognition*, 2026. 
