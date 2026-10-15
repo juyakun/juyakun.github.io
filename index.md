@@ -59,6 +59,11 @@ Yakun Ju is currently a "ZhuFeng" Distinguished Professor in the State Key Labor
 
 
 ## Selected Publication (5 Years)
+**Optimal Transport Minimization: Learning Implicit Distribution Invariance for One-Shot Object Detection**  
+Cong Zhang, Zihang Lyu, Jun Xiao,  **Yakun Ju✉**, Kin-Man Lam, Qi Wang.  
+  *IEEE Transactions on Multimedia(TMM)*, 2026. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326010794)
+<br>
+<br>
 **Clinically-Informed Prompt Learning for Explainable Diagnosis with Biomedical Vision-Language Models**  
 Hao Xie, Yucheng Fan, N.F. Law, Yong-Ping Zheng, Sai Ho Ling, Yang Hu, **Yakun Ju✉**.  
   *Pattern Recognition (PR)*, 2026. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326010794)
