@@ -30,7 +30,7 @@ NSFC Excellent Young Scientists Fund (Overseas)
 <br>
 <br>
 Cross-Scale 3D Perception and Multimodal Fusion for Underwater World Models  
-NSFC Excellent Young Scientists Fund (Overseas)  
+Guangming Laboratory-Open Research Projects
 **PI, CNY: 300K ≈ USD: 45,000**
 <br>
 <br>
