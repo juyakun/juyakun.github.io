@@ -26,7 +26,12 @@ comments: false
 ## Research Grants
 High-Precision Underwater Reconstruction Method Based on Photometric Stereo  
 NSFC Excellent Young Scientists Fund (Overseas)  
-**PI, CNY: 3M ≈ USD: 447,000**
+**PI, CNY: 3M ≈ USD: 450,000**
+<br>
+<br>
+Cross-Scale 3D Perception and Multimodal Fusion for Underwater World Models  
+NSFC Excellent Young Scientists Fund (Overseas)  
+**PI, CNY: 300K ≈ USD: 45,000**
 <br>
 <br>
 Intelligent Remote Sensing and Prediction Methods for Ocean Applications
@@ -45,6 +50,8 @@ Research funding for UK higher education institutions
 **Optimal Transport Minimization: Learning Implicit Distribution Invariance for One-Shot Object Detection**  
 Cong Zhang, Zihang Lyu, Jun Xiao,  **Yakun Ju✉**, Kin-Man Lam, Qi Wang.  
   *IEEE Transactions on Multimedia*, 2026.
+<br>
+<br>
 **Clinically-Informed Prompt Learning for Explainable Diagnosis with Biomedical Vision-Language Models**  
   H. Xie, Y. Fan, N.-F. Law, Y.-P. Zheng, S.-H. Ling, Y. Hu, **Y. Ju✉**.  
   *Pattern Recognition*, 2026. 
