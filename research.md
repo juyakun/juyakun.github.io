@@ -36,7 +36,7 @@ Guangming Laboratory-Open Research Projects
 <br>
 Intelligent Remote Sensing and Prediction Methods for Ocean Applications
 Research funding for UK higher education institutions  
-**PI, GBP: 5K ≈ USD: 6,650**
+**PI, GBP: 5K ≈ USD: 6,700**
 <br>
 <br>
 
