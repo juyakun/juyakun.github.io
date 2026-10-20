@@ -30,7 +30,7 @@ NSFC Excellent Young Scientists Fund (Overseas)
 <br>
 <br>
 Cross-Scale 3D Perception and Multimodal Fusion for Underwater World Models  
-Guangming Laboratory-Open Research Projects
+Guangming Laboratory-Open Research Projects  
 **PI, CNY: 300K ≈ USD: 45,000**
 <br>
 <br>
@@ -48,7 +48,7 @@ Research funding for UK higher education institutions
 #### 2026
 
 **Optimal Transport Minimization: Learning Implicit Distribution Invariance for One-Shot Object Detection**  
-Cong Zhang, Zihang Lyu, Jun Xiao,  **Yakun Ju✉**, Kin-Man Lam, Qi Wang.  
+Cong Zhang, Zihang Lyu, Jun Xiao,  **Yakun Ju✉**, Kin-Man Lam, Qi Wang.    
   *IEEE Transactions on Multimedia*, 2026.
 <br>
 <br>
