@@ -16,6 +16,9 @@ comments: false
 * CO2302: Software Engineering Group Project, University of Leicester, 2024-2025 SEM2
 
 ### Talk & Tutorial
+* 复杂水下环境的智能视觉感知. SDCV (山东省计算机视觉大会) Qingdao, China, 17 Oct. 2026
+<br>
+<br>
 * 水下高精度三维感知. PRCV (中国模式识别与计算机视觉大会) Haerbin, China, 24 Aug. 2026
 <br>
 <br>
